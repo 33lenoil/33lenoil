@@ -5,7 +5,7 @@
       <h3 align="center">Software Engineer | Full-Stack Developer</h3>
     </td>
     <td style="border: none; padding: 0;">
-      <img src="[https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif](https://giphy.com/gifs/hootsuite-owly-l1J3Us3YbWLEqMyzu)" width="200" />
+      <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="200" />
     </td>
   </tr>
 </table>
