@@ -1,16 +1,9 @@
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 0;">
-      <h1 align="center">Hi 👋, I'm Lionel Hu</h1>
-      <h3 align="center">Software Engineer | Full-Stack Developer</h3>
-    </td>
-    <td style="border: none; padding: 0;">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWw4MW9xOG0yOWNuMzZ4d2pvcWJlM2dkZDVkdTJsM2d2cnllYWNldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J3Us3YbWLEqMyzu/giphy.gif" width="200" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h1>Hi 👋, I'm Lionel Hu</h1>
+  <h3>Software Engineer | Full-Stack Developer</h3>
+</div>
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <!-- <img src="https://github-profile-trophy.vercel.app/?username=33lenoil" alt="33lenoil" /> -->
   </a> 
@@ -65,6 +58,8 @@ I love **gym 💪, photography 📷, traveling & the outdoors ⛰️, and readin
   <img src="https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firestore" />
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" /> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" /> 
 </p>
 
 ### Frontend
@@ -74,13 +69,6 @@ I love **gym 💪, photography 📷, traveling & the outdoors ⛰️, and readin
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" alt="Jest" />
   <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge" alt="Cypress" />
-</p>
-
-### Databases
-<p align="left"> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" /> 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" /> 
-  <img src="https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firestore" />
 </p>
 
 ### Cloud & DevOps
