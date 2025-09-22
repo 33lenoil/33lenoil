@@ -5,7 +5,7 @@
       <h3 align="center">Software Engineer | Full-Stack Developer</h3>
     </td>
     <td style="border: none; padding: 0;">
-      <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="200" />
+      <img src="[https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif](https://giphy.com/gifs/hootsuite-owly-l1J3Us3YbWLEqMyzu)" width="200" />
     </td>
   </tr>
 </table>
@@ -23,19 +23,23 @@
 🎓 Hi, my name is **Lionel Hu**, and I’m a **software engineer** specializing in **full-stack/frontend**. I work at **HeartByte (Storio)** on a Gen-AI interactive story web app (**Next.js + TypeScript + Firebase/Firestore**).
 
 ### 💼 Recent Experience
-- Built a **branching visual-novel engine** (save/restore, numeric branching, author tools) and shipped UI/SSR/data-fetch refactors across core pages.
-- Implemented **LLM story pipelines** (Groq, JSON schema repair/validation) and improved SEO & performance.
+- Built a **branching visual-novel engine** (save/restore, numeric branching, author tools).
+- Initiated SEO and performance improvements with UI/SSR/data-fetch refactors across core pages
+- Implemented **LLM story pipelines** (Groq, JSON schema repair/validation).
 - Delivered production features end-to-end in a small startup environment (design → code → ship).
 
 ---
 
 ## 🏆 Highlights
 
-- **MSE in CIS, University of Pennsylvania — GPA 4.00/4.00**
+- **MSE in CIS, University of Pennsylvania — GPA 3.90/4.00**
 - **BA in CS, Rice University — GPA 3.70/4.00**
 - Built an **end-to-end web search engine** (crawler → TF-IDF + PageRank → ranking UI).
 - Built a **Gmail/Drive-style suite** (webmail + cloud drive; not affiliated with Google).
 - Built **yelpscout**, a Yelp-dataset business search & insights app.
+
+### 🎵 Outside of Tech:
+I love **gym 💪, photography 📷, traveling & the outdoors ⛰️, and reading 📖**.  
 
 ---
 
@@ -74,7 +78,6 @@
 
 ### Databases
 <p align="left"> 
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" /> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" /> 
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" /> 
   <img src="https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firestore" />
@@ -84,11 +87,9 @@
 <p align="left"> 
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" /> 
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
   <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white&style=for-the-badge" alt="Azure DevOps" />
 </p>
 
 ---
@@ -101,9 +102,7 @@ Check out my pinned repos for the projects I build. (list continuously updating)
 - **[DocSearch](https://github.com/33lenoil/DocSearch)** — End-to-end web search engine (crawler → indexing → TF-IDF + PageRank → ranking UI).
 - **[Google Suite Copy](https://github.com/33lenoil/google-suite-copy)** — One repo: Gmail-style webmail + Drive-style cloud storage (not affiliated with Google).
 - **[yelpscout](https://github.com/33lenoil/yelpscout)** — Yelp-dataset local business search & insights (Top-100 ranking, weekday popularity, tip-keywords, recommendations).
-
-### 🎮 Miscellaneous Projects
-- **UFOgram** — Social app MVP with real-time feed, profiles, and infinite scroll. <!-- add link if public -->
+- **[UFOgram](https://ufogram-frontend.fly.dev)** — Social app MVP with real-time feed, profiles, and infinite scroll.
 
 ---
 
