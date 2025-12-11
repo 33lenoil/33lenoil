@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-🎓 Hi, my name is **Lionel Hu**, and I’m a **software engineer** specializing in **full-stack/frontend**. I work at **HeartByte (Storio)** on a Gen-AI interactive story web app (**Next.js + TypeScript + Firebase/Firestore**).
+🎓 Hi, my name is **Lionel Hu**, and I’m a **software engineer** specializing in **full-stack/frontend**. I work at **Readily** on a medical compliance AI tool.
 
 ### 💼 Recent Experience
 - Built a **branching visual-novel engine** (save/restore, numeric branching, author tools).
